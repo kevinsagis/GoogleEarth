@@ -1,10 +1,12 @@
 # Google Earth
-Google Earth Widget for ESRI WebApp Builder 2.6
+Google Earth Widget for ESRI WebApp Builder 2.16
 
 
 Demo link: https://cloud.sagis.org/googleearthwidget/
 
 This widget opens a new window with Google Earth on the location the user clicks. 
+
+Update Feb 2020 - Google Earth now supports all browsers!
 
 How to configure:
 
